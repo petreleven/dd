@@ -1,0 +1,15 @@
+
+
+-------------
+  Separator
+-------------
+
+2025-03-23 08:41:04: ACTION[Main]: [log] modname="log"
+2025-03-23 08:41:04: ACTION[Main]: [log] modpath="/usr/local/game/luanti/games/devtest/mods/log"
+2025-03-23 08:41:04: ACTION[Main]: [log] worldpath="/usr/local/game/luanti/bin/../worlds/world"
+2025-03-23 08:41:04: ACTION[Main]: [log] Callback: on_mods_loaded()
+2025-03-23 08:41:04: ACTION[Main]: World at [/usr/local/game/luanti/bin/../worlds/world]
+2025-03-23 08:41:04: ACTION[Main]: Server for gameid="devtest" listening on 0.0.0.0:30000.
+2025-03-23 08:41:09: WARNING[Server]: Server: Maximum lag peaked at 1.26275 (steplen=0.09)
+2025-03-23 08:41:12: [Main]: INFO: signal_handler(): Ctrl-C pressed, shutting down.
+2025-03-23 08:41:12: ACTION[Main]: Server: Shutting down
