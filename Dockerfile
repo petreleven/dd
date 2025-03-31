@@ -10,7 +10,8 @@ RUN apt update && apt install -y \
 
 # Create non-root user
 
-RUN mkdir -p /usr/local/minetest/ && useradd -m client && chown -R client:client /usr/local/minetest
+RUN mkdir -p /usr/local/minetest/ 
+# && useradd -m client && chown -R client:client /usr/local/minetest
 
 # Copy precompiled game binary and config for this player
 COPY game /usr/local/minetest/
